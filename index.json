@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-jupyter",
+  "versions": [
+    {
+      "commit": "f71a1589bdb3e5d00780938aafacc61e5ecf4bb0",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:53:27.929579+00:00"
+    }
+  ]
+}
