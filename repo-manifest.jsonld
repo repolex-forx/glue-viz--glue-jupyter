@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-jupyter/commit/f71a1589bdb3e5d00780938aafacc61e5ecf4bb0",
       "git:hexsha": "f71a1589bdb3e5d00780938aafacc61e5ecf4bb0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T02:53:27.928804+00:00"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-jupyter/commit/a11a04803ffd8ecf90fefc114caf66abbb9a02b9",
